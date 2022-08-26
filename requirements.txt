@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+mmh3==3.0.0
+Pillow==9.2.0
+requests==2.25.1
+shodan==1.28.0
