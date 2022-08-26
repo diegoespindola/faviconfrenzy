@@ -4,7 +4,7 @@ Search for the provided URL FavIcon, no need to provide exact favicon url,  calc
 ### First: Clone repository
 ```bash
 git clone https://github.com/diegoespindola/faviconfrenzy
-cd favIconsSearch
+cd faviconfrenzy
 ```
 ### Second: Install requirements
 ```bash
