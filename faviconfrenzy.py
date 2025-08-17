@@ -118,10 +118,10 @@ def shodanQuery(hash, shodanKey):
                     print('     [+] Port   : ', str(hosts['port']))
                     print('     [+] Org    : ', hosts['org'])
                     print('     [+] Domains: ', hosts['domains'])
-                    if(len(hosts['http']['components'])>0):
-                        print('     [+] Components :') 
-                    for component in hosts['http']['components']:
-                        print('       [+]' , component)
+                    #if(len(hosts['http']['components'])>0):
+                    #    print('     [+] Components :') 
+                    #for component in hosts['http']['components']:
+                    #    print('       [+]' , component)
                     if (count >= parametros.topresults):
                         break
             except Exception as ex:
